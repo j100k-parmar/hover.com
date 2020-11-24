@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.icon{
+    width: 500px;
+    height: 140px;
+    padding-left: 30px;
+    background-color: lightgreen;
+    margin: auto;
+    margin-top: 70px;
+    padding-top: 60px;
+}
+
+.facebook{
+    width: 55px;
+    height: 55px;
+    float: left;
+    padding-left: 38px;
+    padding-top: 36px;
+    margin: auto;
+    
+    
+   
+}
+.facebook:hover{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: -5px;
+    
+
+}
+.insta{
+    width: 55px;
+    height: 55px;
+    float: left;
+    padding-left: 38px;
+    padding-top: 36px;
+    margin: auto;
+    
+   
+}
+.insta:hover{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: -5px;
+}
+
+.linkedIn{
+    width: 55px;
+    height: 55px;
+    float: left;
+    padding-left: 38px;
+    padding-top: 36px;
+    margin: auto;
+
+   
+}
+
+.linkedIn:hover{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: -5px;
+}
+
+.twitter{
+width: 55px;
+height: 55px;
+float: left;
+padding-left: 38px;
+padding-top: 36px;
+margin: auto;
+
+}
+.twitter:hover{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: -5px;
+}
+
+.youtube{
+    width: 55px;
+    height: 55px;
+    float: left;
+    padding-left: 36px;
+    padding-top: 36px;
+    margin: auto;
+    
+   
+
+}
+.youtube:hover{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: -5px;
+
+}
